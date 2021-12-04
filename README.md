@@ -16,3 +16,6 @@ conf.inti = 国际站点部分优化
 conf.op = 补全 dnsmasq-china-list 项目缺失的国际站点对中国大陆的优化解析
 
 
+感谢  https://github.com/mawenjian/china-cdn-domain-whitelist 该项目提供的列表支持
+
+
